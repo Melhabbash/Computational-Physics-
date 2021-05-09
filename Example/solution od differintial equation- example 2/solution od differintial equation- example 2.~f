@@ -1,0 +1,7 @@
+*       This program calculate the solution for the
+*       diferintial equation:
+*       dy/dx=-y ,    y(x=0)=1
+*       the solution is : y= exp(-x)
+
+        Print*,'Enter the value of step size )(.le. 0to stop)'
+
