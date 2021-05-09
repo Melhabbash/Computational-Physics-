@@ -1,0 +1,6 @@
+Write a Fortran program to calculate and find error% between exact derivatives and numerical derivatives of the folloeing function using all methods (forward , backward , 3-point method, 5-point method)
+
+(i) f(x)=x*tan(x) at x=6.
+(ii) f(x)=x^6-cos(x)  at x=2
+(iii) f(x)=x*exp(x)-ln(x)   at x=4.0
+(iv) f(x)=x*tan(x)  at x=3.0
